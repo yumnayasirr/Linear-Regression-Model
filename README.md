@@ -1,0 +1,2 @@
+# Linear Regression Model
+A machine learning project that predicts car prices using linear regression. The model is trained on a dataset from kaggle.  This project explores:  Label Encoding vs One-Hot Encoding, Feature selection & impact analysis, Manual feature testing, Cross-validation, Model evaluation with R² and MSE.  The final model achieves 0.843 R² score, demonstrating solid predictive performance and interpretability.
